@@ -1,6 +1,6 @@
 # Exercise 04 — Product Landing Page
 
-[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-04-product-landing-page/) · [View source](https://github.com/vigneshsrinivasan-sys/exercise-04-product-landing-page)
+[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-04-product-landing-page/) · [HTML source](index.html)
 
 ![Rendered preview](preview.png)
 
@@ -25,4 +25,3 @@ A NovaPhone product page combines navigation, product imagery, feature content, 
 ## Sequence
 
 **Exercise 04 of 27** · Independent practice
-
