@@ -1,6 +1,6 @@
 # Exercise 04 — Product Landing Page
 
-[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-04-product-landing-page/) · [HTML source](index.html)
+[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-04-product-landing-page/) · [HTML source](index.html)
 
 ![Rendered preview](preview.png)
 
