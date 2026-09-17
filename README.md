@@ -24,4 +24,4 @@ A NovaPhone product page combines navigation, product imagery, feature content, 
 
 ## Sequence
 
-**Exercise 04 of 27** · Independent practice
+**Exercise 04** · Independent practice
